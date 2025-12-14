@@ -1,0 +1,12 @@
+{
+  "name": "eslint-ex",
+  "module": "index.js",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@eslint/js": "^9.39.2",
+    "@types/bun": "latest",
+    "eslint": "^9.39.2",
+    "globals": "^16.5.0"
+  }
+}
