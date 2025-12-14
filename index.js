@@ -4,7 +4,7 @@ localStorage(j)
 const Fnn = () => 0
 
 // Auto fix by eslint
-const Fn = (s) => {
+const newFn = (s) => {
     s = 10
     return s
 }
